@@ -1,0 +1,25 @@
+{
+  "name": "liubo-composer-test/liubo-dict",
+  "description": "export mysql data table structure and comments",
+  "keywords": [
+    "export",
+    "wordbook"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.0"
+  },
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "liubo",
+      "email": "291868060@qq.com"
+    }
+  ],
+  "autoload": { 
+    "psr-4": {
+      "LiuboDict\\": "src/"
+    }
+  }
+}
