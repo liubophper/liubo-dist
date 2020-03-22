@@ -6,7 +6,7 @@
  * Time: 19:08
  */
 
-namespace LiuboDict;
+namespace LiuboDist;
 
 
 class LiuboDict
