@@ -11,5 +11,9 @@ namespace LiuboDist;
 
 class LiuboDict
 {
+    public function a()
+    {
+        return 32423432;
+    }
 
 }
