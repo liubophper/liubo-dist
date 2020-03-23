@@ -16,4 +16,9 @@ class LiuboDict
         return 32423432;
     }
 
+    public function b()
+    {
+        return 'b';
+    }
+
 }
