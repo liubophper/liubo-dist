@@ -2,7 +2,6 @@
   "name": "liubo-composer-test/liubo-dict",
   "description": "export mysql data table structure and comments",
   "keywords": [
-    "export",
     "wordbook"
   ],
   "type": "library",
